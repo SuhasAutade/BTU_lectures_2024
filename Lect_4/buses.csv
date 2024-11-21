@@ -1,0 +1,6 @@
+bus,v_nom,carrier
+ele_bus,20,AC
+heat_bus,1,heat
+H2_bus,1,hydrogen
+gas_bus,1,gas
+biomass_bus,1,biomass

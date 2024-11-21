@@ -1,0 +1,4 @@
+﻿name,bus,e_initial,e_nom,e_cyclic,marginal_cost,capital_cost,e_nom_extendable
+water tank,heat_bus,1.00E+06,1.00E+06,TRUE,10,900,TRUE
+gas_store,gas_bus,1.00E+06,1.00E+06,TRUE,0,150,TRUE
+hydrogen_store,H2_bus,1000,1000,TRUE,20,300,TRUE
