@@ -1,4 +1,4 @@
-name,bus,load_MW,carrier
+name,bus,p_set,carrier
 electricity,ele_bus,120,AC
 heat,heat_bus,100,heat
 hydrogen,H2_bus,20,hydrogen
