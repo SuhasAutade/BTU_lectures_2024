@@ -1,0 +1,6 @@
+﻿name,bus0,bus1,bus2,p_nom,p_nom_max,efficiency,efficiency2,capital_cost,p_nom_extendable
+heat_pump,ele_bus,heat_bus,,10,50,3,0,900,TRUE
+electrolyzer,ele_bus,H2_bus,,10,50,0.8,0,150,TRUE
+gas_boiler,gas_bus,heat_bus,,10,50,0.9,0,300,TRUE
+CHP,gas_bus,ele_bus,heat_bus,10,50,0.3,0.3,1400,TRUE
+OCGT,gas_bus,ele_bus,,10,50,0.4,0,600,TRUE

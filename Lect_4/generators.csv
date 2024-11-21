@@ -1,0 +1,4 @@
+generator,p_nom,p_nom_max,bus,p_nom_extendable,marginal_cost,lifetime,efficiency,carrier,capital_cost,start_up_cost,shut_down_cost,min_up_time,min_down_time,ramp_limit_up,ramp_limit_down,ramp_limit_start_up,ramp_limit_shut_down
+coal,50,90,ele_bus,FALSE,50,25,0.35,coal,,,,,,,,,
+biomass,30,60,ele_bus,TRUE,100,25,0.3,biomass,,,,,,,,,
+wind,20,50,ele_bus,FALSE,0,30,0.3,wind,10000,,,,,,,,
