@@ -1,0 +1,23 @@
+name,names,location,p_nom,technology,emission_factor,p_nom_max,p_nom_extendable,min_power,efficiency,marginal_cost,bus,capital_cost
+unit_1,Senoko Power Station,"1.466667, 103.8",2807.0,natural gas,0.2,2807.0,FALSE,561.4,0.55,5.5,7,
+unit_2,Pulau Seraya Power Station,"1.27931, 103.72767",2222.0,natural gas,0.2,2467.7,FALSE,444.4,0.55,5.5,12,
+unit_3,Tuas CCGT Power Station Singapore,"1.28827, 103.642432",1876.0,natural gas,0.2,1470.0,FALSE,375.2,0.55,5.5,6,
+unit_4,Keppel Merlimau Cogen Power Plant,"1.281828, 103.674906",1310.0,natural gas,0.2,1310.0,FALSE,262,0.55,5.5,4,
+unit_5,PacificLight Power Station,"1.283469, 103.723578",800.0,natural gas,0.2,830.0,FALSE,160,0.55,5.5,12,
+unit_6,Sembcorp Cogen @ Sakra Power Station,"1.254900, 103.704160",785.0,natural gas,0.2,815.0,FALSE,157,0.55,5.5,12,
+unit_7,Sembcorp Cogen @ Banyan,"1.258854, 103.669379",404.0,natural gas,0.2,404.0,FALSE,80.8,0.55,5.5,4,
+unit_8,Tuaspring CCGT Power Plant,"1.30145, 103.621492",396.0,natural gas,0.2,396.0,FALSE,79.2,0.55,5.5,6,
+unit_9,ExxonMobil Power Station,"1.2689156, 103.703328",314.0,natural gas,0.2,444.0,FALSE,62.8,0.55,5.5,12,
+unit_10,Tembusu Multi-Utilities Complex,"1.276469, 103.667625",134.0,biomass,0,134.0,FALSE,0,0.5,0,4,
+unit_11,Tengeh Floating Solar Farm,"1.34520, 103.65518",60.0,solar pv,0,60.0,FALSE,0,1,0,14,1200000
+unit_12,EDPR Apac ,"1.313827, 103.864212",7.2,solar pv,0,7.2,FALSE,0,1,0,10,1200000
+unit_13,Solas land phase 1,"1.2876721, 103.724281",5.3,solar pv,0,5.3,FALSE,0,1,0,12,1200000
+unit_14,SolarLand 2,"1.340854, 103.967349",19.2,solar pv,0,19.2,FALSE,0,1,0,9,1200000
+unit_15,Bedok Floating Solar System,"1.343421, 103.921142",1.5,solar pv,0,1.5,FALSE,0,1,0,9,1200000
+unit_16,Floating solar pv test bed,"1.350055, 103.639343",1,solar pv,0,1,FALSE,0,1,0,14,1200000
+unit_17,TuasOne Waste-to-energy Plant,"1.298933, 103.621742",136.2,waste,0,120,FALSE,0,0.4,0,6,
+unit_18,Tuas incineration plant ,"1.324659, 103.634754",48,,,,FALSE,0,0.4,0,14,
+unit_19,Tuas South Incineration Plant (TSIP),"1.295981, 103.620695",132.0,waste,0,80.0,FALSE,0,0.4,0,6,
+unit_20,Senoko Waste-to-Energy Plant (SWTE),"1.46232, 103.79486",55.0,waste,0,55.0,FALSE,0,0.4,0,7,
+unit_21,Keppel Seghers Tuas Waste-to-Energy Plant (KSTP),"1.297705, 103.621148",22.0,waste,0,22.0,FALSE,0,0.4,0,6,
+unit_22,Sembcorp changhi exhibition center,"1.364659, 103.023445",6.3,solar pv,0,6.3,FALSE,0,1,0,9,1200000
